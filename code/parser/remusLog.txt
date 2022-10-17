@@ -1,0 +1,46 @@
+>>	Session: 1	Source:  170.99.78.111     Destination:  192.168.86.48
+	
+			admin , cisco
+			admin , password
+			admin , pass
+			admin , pass123
+			admin , 123456
+<<
+
+>>	Session: 2	Source:  128.210.104.167   Destination:  192.168.86.48
+
+			admin , password
+			admin , 12345
+			root , root
+			root , password
+			root , admin
+<<
+
+>>	Session: 3	Source:  163.192.24.14	   Destination:  192.168.86.48
+
+			admin , password
+			root  , password
+			admin , 123456
+			root  , mike
+			linksys , 03eNa9
+			open , pass
+			super , admin123
+<<
+
+>>	Session: 4	Source:  170.53.51.237	   Destination:  192.168.86.48
+
+			default , pass
+			servername , aero
+			admin , eagle
+<<
+
+>>	Session: 5	Source:  18.116.164.68	   Destination:  192.168.86.48
+
+			admin , cisco
+			remus , password
+			remusNet , password
+			remusnet , password
+			remus , 1234
+			remus , 123345
+			remus , 123456
+<<	
